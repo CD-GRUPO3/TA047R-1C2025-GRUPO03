@@ -1,6 +1,8 @@
 # TP1-GRUPO3
-Consigna TP: https://drive.google.com/drive/folders/1pL_4BBWxBdOXq-SeYn8VHSwInFPPinNA
 
-EJ1: Julio / Agosto / Septiembre
-EJ2: Victoria / Terr. del Norte / Aus. Meridional / Aus. Occidental / Tasmania
-EJ3: Rio de Janeiro
+Integrantes:
+
+ARIAS, Rafaela Pilar. 112272. rparias@fi.uba.ar.
+BARCALA ROCA, Ramiro. 112478. rbarcala@fi.uba.ar.
+LEMA, Mora. 111831. molema@fi.uba.ar.
+IENCO, Lara Eliana. 111921. lienco@fi.uba.ar.
