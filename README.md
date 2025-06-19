@@ -1,4 +1,4 @@
-# TP1-GRUPO3
+# TP - GRUPO 3
 
 Integrantes:
 
