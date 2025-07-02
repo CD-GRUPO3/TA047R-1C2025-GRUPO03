@@ -1,6 +1,6 @@
-# TP - GRUPO 3
+# TA047 Ciencia de Datos - Rodríguez 1C2025 | Facultad de Ingeniería UBA
 
-Integrantes:
+Grupo 03. Integrantes:
 
 - ARIAS, Rafaela Pilar. Padrón: 112272. rparias@fi.uba.ar.
 
