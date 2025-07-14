@@ -11,7 +11,8 @@ Grupo 03. Integrantes:
 - IENCO, Lara Eliana. Padrón: 111921. lienco@fi.uba.ar.
 
 
-### TP 1
+
+### TP 1: Análisis Exploratorio de Datos - Modelos de Clasificación Binaria -  Regresión  - Agrupamiento (Clustering)
 Cada ejercicio incluye análisis, preprocesamiento, modelado, evaluación y visualización de resultados. Se abordaron cuatro ejercicios principales:
 
 1. Análisis exploratorio sobre datos de viajes en taxis Yellow Cab (EE.UU.), para comprender las características, detectar datos faltantes y valores atípicos, y generar nuevas variables.
@@ -21,6 +22,7 @@ Cada ejercicio incluye análisis, preprocesamiento, modelado, evaluación y visu
 3. Modelos de regresión para predecir el precio de alquiler en Airbnb, entrenando Regresión Lineal, XGBoost y KNN.
 
 4. Agrupamiento (clustering) de datos musicales de Spotify, utilizando K-Means para identificar grupos y caracterizarlos.
+
 
 
 
