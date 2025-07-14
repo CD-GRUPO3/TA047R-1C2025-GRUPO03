@@ -1,4 +1,4 @@
-# TA047 Ciencia de Datos - Cátedra Rodríguez 1C2025 | Facultad de Ingeniería UBA
+# TA047 Ciencia de Datos - Cátedra Rodríguez 1c2025 | Facultad de Ingeniería UBA
 
 Grupo 03. Integrantes:
 
