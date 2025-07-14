@@ -9,3 +9,22 @@ Grupo 03. Integrantes:
 - LEMA, Mora. Padrón: 111831. molema@fi.uba.ar.
 
 - IENCO, Lara Eliana. Padrón: 111921. lienco@fi.uba.ar.
+
+
+### TP 1
+Cada ejercicio incluye análisis, preprocesamiento, modelado, evaluación y visualización de resultados. Se abordaron cuatro ejercicios principales:
+
+1. Análisis exploratorio sobre datos de viajes en taxis Yellow Cab (EE.UU.), para comprender las características, detectar datos faltantes y valores atípicos, y generar nuevas variables.
+
+2. Modelos de clasificación binaria para predecir lluvia al día siguiente a partir de datos meteorológicos de Australia, usando árboles de decisión, Random Forest y un ensamble hibrído (Voting).
+
+3. Modelos de regresión para predecir el precio de alquiler en Airbnb, entrenando Regresión Lineal, XGBoost y KNN.
+
+4. Agrupamiento (clustering) de datos musicales de Spotify, utilizando K-Means para identificar grupos y caracterizarlos.
+
+
+
+### TP 2: Competencia en Kaggle - Clasificación de Sentimientos
+Proyecto para predecir si críticas cinematográficas en español son positivas o negativas. Se usaron técnicas de preprocesamiento de texto y modelos como Bayes Naïve, Random Forest, XGBoost, Redes Neuronales y un Ensamble Híbrido.
+
+Cada modelo se optimiza y evalúa con la métrica F1, y las predicciones se envían a Kaggle para competir en el leaderboard.
