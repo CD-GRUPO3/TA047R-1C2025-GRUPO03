@@ -17,9 +17,9 @@ Cada ejercicio incluye análisis, preprocesamiento, modelado, evaluación y visu
 
 1. Análisis exploratorio sobre datos de viajes en taxis Yellow Cab (EE.UU.), para comprender las características, detectar datos faltantes y valores atípicos, y generar nuevas variables.
 
-2. Modelos de clasificación binaria para predecir lluvia al día siguiente a partir de datos meteorológicos de Australia, usando árboles de decisión, Random Forest y un ensamble hibrído (Voting).
+2. Modelos de clasificación binaria para predecir lluvia al día siguiente a partir de datos meteorológicos de Australia, usando Árboles de decisión, Random Forest y un Ensamble Hibrído (Voting).
 
-3. Modelos de regresión para predecir el precio de alquiler en Airbnb, entrenando Regresión Lineal, XGBoost y KNN.
+3. Modelos de regresión para predecir el precio de alquiler en Airbnb en Río de Janeiro, entrenando Regresión Lineal, XGBoost y KNN.
 
 4. Agrupamiento (clustering) de datos musicales de Spotify, utilizando K-Means para identificar grupos y caracterizarlos.
 
@@ -29,4 +29,4 @@ Cada ejercicio incluye análisis, preprocesamiento, modelado, evaluación y visu
 ### TP 2: Competencia en Kaggle - Clasificación de Sentimientos
 Proyecto para predecir si críticas cinematográficas en español son positivas o negativas. Se usaron técnicas de preprocesamiento de texto y modelos como Bayes Naïve, Random Forest, XGBoost, Redes Neuronales y un Ensamble Híbrido.
 
-Cada modelo se optimiza y evalúa con la métrica F1, y las predicciones se envían a Kaggle para competir en el leaderboard.
+Cada modelo se optimizó y evaluó con la métrica F1, y las predicciones se enviaron a Kaggle para competir en el leaderboard.
