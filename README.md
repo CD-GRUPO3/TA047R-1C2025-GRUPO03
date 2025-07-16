@@ -26,7 +26,14 @@ Cada ejercicio incluye análisis, preprocesamiento, modelado, evaluación y visu
 
 ### TP 2: Competencia en Kaggle - Clasificación de Sentimientos
 
-Proyecto para predecir si críticas cinematográficas en español son positivas o negativas. Se usaron técnicas de preprocesamiento de texto y modelos como Bayes Naïve, Random Forest, XGBoost, Redes Neuronales y un Ensamble Híbrido.
+Proyecto de clasificación de sentimiento en críticas cinematográficas en español. El objetivo fue predecir si una crítica es positiva o negativa, utilizando técnicas de procesamiento de lenguaje natural y modelos de machine learning.
 
-Cada modelo se optimizó y evaluó con la métrica F1, y las predicciones se enviaron a Kaggle para competir en el leaderboard.
+Se aplicaron métodos de preprocesamiento como "bag of words" y vectorización del texto, y se entrenaron los siguientes modelos:
 
+- **Naive Bayes**
+- **Random Forest**
+- **XGBoost**
+- **Red Neuronal (Keras + TensorFlow)**
+- **Ensamble Híbrido** (Stacking con **Random Forest**, **Naive Bayes** y **Regresión Logística**; meta-modelo: **XGBoost**)
+  
+Cada modelo fue optimizado mediante búsqueda de hiperparámetros y evaluado con la métrica F1 en un conjunto de prueba. Las predicciones se enviaron a Kaggle para competir en el leaderboard.
