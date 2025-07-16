@@ -33,7 +33,7 @@ Se aplicaron métodos de preprocesamiento como "bag of words" y vectorización d
 - **Naive Bayes**
 - **Random Forest**
 - **XGBoost**
-- **Red Neuronal (Keras + TensorFlow)**
+- **Red Neuronal (PyTorch)**
 - **Ensamble Híbrido** (Stacking con **Random Forest**, **Naive Bayes** y **Regresión Logística**; meta-modelo: **XGBoost**)
   
 Cada modelo fue optimizado mediante búsqueda de hiperparámetros y evaluado con la métrica F1 en un conjunto de prueba. Las predicciones se enviaron a Kaggle para competir en el leaderboard.
